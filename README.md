@@ -1,4 +1,4 @@
-# Flasl_Pecentage_Calculator
+# Flask_Pecentage_Calculator
 <br>
 
 This is a simple Flask web application that calculates the percentage of marks obtained in five different programming subjects: Python, Java, JavaScript, TypeScript, and Flask.
